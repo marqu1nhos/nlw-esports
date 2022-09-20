@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-:link:[Clique aqui para acessar](https://marqu1nhos.github.io/nlw-esports/)
+:link:[Clique aqui para acessar](https://msinesio0.github.io/nlw-esports/)
 
 ## :hammer_and_wrench: Tecnologias
 
